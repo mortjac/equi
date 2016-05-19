@@ -7,12 +7,16 @@ categories: jekyll pixyll
 ---
 
 # IDEAS ESTRATEGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
+
 > ESPAI DE DEBAT “EQUINOCIO”
 
 ## Visión Estratégica
+
 Ofrecer el casco antiguo más seductor de la costa mediterránea.
+
 ## Misión Estratégica
 Conseguir la máxima seducción de este hábitat mediante el adecuado desarrollo auténtico, económico y social, aunando la convivencia entre las diferentes  culturas que en él existen y haciendo especial ahinco en mantener las características específicas que tiene como barrio y haber obtenido la calificación de BIC, y así convertirlo en el mayor aliciente para el fomento y promoción turística de Villajoyosa.
+
 > Actuando bajo las directrices de una estratégia de diferenciación
 
 ###   Misión Estratégica Corta
