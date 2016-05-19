@@ -7,7 +7,7 @@ categories: jekyll pixyll
 ---
 
 # IDEAS ESTRATÉGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
-
+> ESPAI DE DEBAT “EQUINOCIO”
 
 ## Visión Estratégica
 Ofrecer el casco antiguo más seductor de la costa mediterránea.
@@ -85,5 +85,3 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 - Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
 - Actividades veraniegas con estudiantes extranjeros de estudio y excavación arqueológica.
-
-ESPAI DE DEBAT “EQUINOCIO”
