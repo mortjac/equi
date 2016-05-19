@@ -20,6 +20,7 @@ Conseguir la máxima seducción de este hábitat mediante el adecuado desarrollo
 > Actuando bajo las directrices de una estratégia de diferenciación
 
 ###   Misión Estratégica Corta
+
 Conseguir la máxima seducción de este hábitat mediante:
 - el adecuado desarrollo auténtico, económico y social
 - aunando la convivencia entre las diferentes  culturas
