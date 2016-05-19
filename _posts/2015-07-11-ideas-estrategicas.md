@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      IDEAS ESTRATÉGICAS
+title:      ideas estrategicas
 date:       2015-07-11
 summary:    IDEAS ESTRATÉGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
 categories: jekyll pixyll
