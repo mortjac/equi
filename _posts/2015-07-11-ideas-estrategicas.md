@@ -22,11 +22,13 @@ Conseguir la máxima seducción de este hábitat mediante:
 - mantener las características específicas que tiene como barrio y calificación de BIC
 
 Así convertirlo en el mayor aliciente para el fomento y promoción turística de Villajoyosa.
+
 ## Desafios Críticos
 
 - Carencia de apoyo económico y financiero.
 - Construcción antigua: sin cimentación, basada en apoyos laterales y con problemas de subsuelo.
 - Falta histórica de visión estratégica de la sociedad vilera hacia él.
+
 ## Debilidades
 
 - Desconocimiento de la población..
@@ -36,10 +38,12 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 - Casas sin los colores tradicionales.
 - Encarecimiento de los costes de construcción.
 - Tratamiento de su circulación rodada.
+
 ## Amenazas
 
 - Posible desarrollo de burbuja especulativa inmobiliaria.
 - Posible caída de casas por falta de cimentación (construcciones internas de viviendas sin proyecto técnico ni dirección).
+
 ## Fortalezas
 
 - Tener categoría de BIC.
@@ -49,10 +53,12 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 - Gran atractivo para el turista nacional y extranjero.
 - Casco antiguo bien definido.
 - Proximidad al mar, céntrico y clima excelente.
+
 ## Oportunidades
 
 - Desarrollo de actividades económicas y culturales.
 - Ayuda  esencial al desarrollo turístico local.
+
 ## Planes De Acción
 
 ### Ante Desafios Críticos
@@ -63,6 +69,7 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 - Informe arquitectónico de la estructura de las casas.
 - Ordenanza reguladora de la actividad comercial.
 - Ordenanza reguladora de la fiscalidad.
+
 ### Eliminar Debilidades
 
 - Definir y hacer una o varias “casa típica” (municipal).
@@ -71,16 +78,19 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 - Fomento y ayuda a la instalación de actividades artesanas.
 - Ubicación y mantenimiento de centros institucionales en el lugar.
 - Realización de comidas/cenas de convivencia: con vileros, noruegos, gitanos, ingleses, etc).
+
 ### Anular Amenazas
 
 - Ejecución de la actividad “camas calientes”.
 - Definición de una hoja de ruta para la inspección de viviendas.
 - Coordinación entre las agencias inmobiliarias y las hoteleras.
+
 ### Incrementar Fortalezas
 
 - Publicación de divulgación del casco antiguo.
 - Disponer de azafata-guia que haga divulgación “in situ”.
 - Realizar página web, con concierto público y privado, para divulgar la intencionalidad del PECA.
+
 ### Aprovechar Oportunidades
 
 - Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
