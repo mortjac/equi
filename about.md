@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nosotros
-permalink: /equinocci/about
+permalink: equinocci/about
 tags: about
 ---
 
