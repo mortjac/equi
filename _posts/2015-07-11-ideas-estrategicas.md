@@ -2,8 +2,8 @@
 layout:     post
 title:      Ideas estratégicas para el casco antiguo de Villajoyosa
 date:       2015-07-11 12:31:19
-summary:    IDEAS ESTRATEGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
-categories: jekyll pixyll
+summary:    Visión, misión, DAFO y acciones
+categories: Villajoyosa Vilamuseu
 ---
 
 ## Visión Estratégica
