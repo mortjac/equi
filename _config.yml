@@ -3,7 +3,7 @@ title:       Ideas Estratégicas en Equinocci
 email:       mortjac@me.com
 author:      Morten Jacobsen
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/equinocci"
+baseurl:     "/equinocci/"
 url:         "http://mortjac.github.io/equinocci"
 date_format: "%b %-d, %Y"
 
