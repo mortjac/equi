@@ -1,14 +1,10 @@
 ---
 layout:     post
-title:      Ideas estrategicas
+title:      Ideas estratégicas para el casco antiguo de Villajoyosa
 date:       2015-07-11 12:31:19
 summary:    IDEAS ESTRATEGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
 categories: jekyll pixyll
 ---
-
-# IDEAS ESTRATEGICAS PARA EL CASCO ANTIGUO DE VILLAJOYOSA
-
-> ESPAI DE DEBAT “EQUINOCIO”
 
 ## Visión Estratégica
 
@@ -100,3 +96,5 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 - Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
 - Actividades veraniegas con estudiantes extranjeros de estudio y excavación arqueológica.
+
+> ESPAI DE DEBAT “EQUINOCIO”
