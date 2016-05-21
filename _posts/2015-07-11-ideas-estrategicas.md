@@ -24,6 +24,8 @@ Conseguir la máxima seducción de este hábitat mediante:
 
 Así convertirlo en el mayor aliciente para el fomento y promoción turística de Villajoyosa.
 
+> Actuando bajo las directrices de una estratégia de diferenciación
+
 ## Desafios Críticos
 
 - Carencia de apoyo económico y financiero.
@@ -96,5 +98,6 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 - Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
 - Actividades veraniegas con estudiantes extranjeros de estudio y excavación arqueológica.
+- Mantener relación directa y pemanente de actividades entre Solgarden Center y Casco Antiguo
 
 > ESPAI DE DEBAT “EQUINOCIO”
