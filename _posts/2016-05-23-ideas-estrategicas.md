@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Ideas estratégicas para el casco antiguo de Villajoyosa
-date:       2016-05-23 17:56:00
+date:       2016-05-23 10:00:00
 summary:    Visión, misión, DAFO y planes de acción
 categories: Villajoyosa Vilamuseu
 ---
