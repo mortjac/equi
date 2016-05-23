@@ -63,8 +63,7 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 - Desarrollo de actividades económicas y culturales.
 - Ayuda  esencial al desarrollo turístico local: conseguir nuevos turistas con motivaciones diferentes.
-- Realización de conurbaciones (especie de mancomunidades) entre poblaciones colindantes.
-- Especial aportación del casco antiguo.
+- Realización de conurbaciones (especie de mancomunidades) entre poblaciones colindantes. Especial aportación del casco antiguo.
 
 ## Planes De Acción
 
