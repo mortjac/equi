@@ -28,39 +28,43 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 ## Desafios Críticos
 
-- Carencia de apoyo económico y financiero.
-- Construcción antigua: sin cimentación, basada en apoyos laterales y con problemas de subsuelo.
-- Falta histórica de visión estratégica de la sociedad vilera hacia él.
-
-## Debilidades
+1.-Carencia de apoyo económico y financiero.
+2.-Construcción antigua: sin cimentación, basada en apoyos laterales y con problemas de subsuelo.
+3.- Falta histórica de visión estratégica de la sociedad vilera.  Implica falta de proyecto y su continuidad,
+### Debilidades
 
 - Desconocimiento de la población..
-- Inexistencia de convivencia entre culturas distintas que habitan en él.
+ - Inexistencia de convivencia entre culturas distintas que habitan en él. Se es reacio a cambiar el modelo de convivencia social.
 - Ignorancia del valor que tiene como BIC.
 - Escasa actividad económica adecuada en su zona interior.
 - Casas sin los colores tradicionales.
 - Encarecimiento de los costes de construcción.
 - Tratamiento de su circulación rodada.
+- Accesibilidad deficiente.
+- Falta de jóvenes familias en su hábitat.
+- Escasa agilidad administrativa.
+-
+### Amenazas
 
-## Amenazas
-
+- Conseguir un escenario inanimado.
 - Posible desarrollo de burbuja especulativa inmobiliaria.
 - Posible caída de casas por falta de cimentación (construcciones internas de viviendas sin proyecto técnico ni dirección).
+### Fortalezas
 
-## Fortalezas
-
+- Compartir estética e historia con otros referentes del Mediterráneo.
 - Tener categoría de BIC.
-- Los distintos  y colores de las casas.
-- Sus 3000 años de historia.
-- Características urbanísticas únicas en la costa mediterránea.
+- Los distintos colores de las casas.
+- Sus más de 3000 años de historia.
+- Características urbanísticas únicas en la costa mediterránea: singularidad e imagen poco alterada.
 - Gran atractivo para el turista nacional y extranjero.
 - Casco antiguo bien definido.
 - Proximidad al mar, céntrico y clima excelente.
-
-## Oportunidades
+### Oportunidades
 
 - Desarrollo de actividades económicas y culturales.
-- Ayuda  esencial al desarrollo turístico local.
+- Ayuda  esencial al desarrollo turístico local: conseguir nuevos turistas con motivaciones diferentes.
+- Realización de conurbaciones (especie de mancomunidades) entre poblaciones colindantes.
+- Especial aportación del casco antiguo.
 
 ## Planes De Acción
 
@@ -90,7 +94,7 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 ### Incrementar Fortalezas
 
-- Publicación de divulgación del casco antiguo.
+- Publicación de divulgación del casco antiguo. Recuperar la mediterraneidad.
 - Disponer de azafata-guia que haga divulgación “in situ”.
 - Realizar página web, con concierto público y privado, para divulgar la intencionalidad del PECA.
 
