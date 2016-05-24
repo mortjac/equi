@@ -70,38 +70,39 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 ### Ante Desafios Críticos
 
-- Creación de una concejalía específica del Casco Antiguo.
-- Plan de búsqueda de financiación externa ( Social,  Consejería, Gobierno, Unión Europea) para afrontar los problemas de construcción antigua y subsuelo.
-- Estudio geológico del subsuelo.
-- Informe arquitectónico de la estructura de las casas.
-- Ordenanza reguladora de la actividad comercial.
-- Ordenanza reguladora de la fiscalidad.
+1.  Creación de una concejalía específica del Casco Antiguo.
+2.  Plan de búsqueda de financiación externa ( Social,  Consejería, Gobierno, Unión Europea) para afrontar los problemas de construcción antigua y subsuelo.
+3.  Estudio geológico del subsuelo.
+4.  Informe arquitectónico de la estructura de las casas.
+5.  Ordenanza específica reguladora de la actividad comercial.
+6.  Ordenanza específica reguladora de la fiscalidad.
 
 ### Eliminar Debilidades
 
-- Definir y hacer una o varias “casa típica” (municipal).
-- Plan de actividades artísticas y culturales.
-- Partida presupuestaria municipal anual para pintar casas.
-- Fomento y ayuda a la instalación de actividades artesanas.
-- Ubicación y mantenimiento de centros institucionales en el lugar.
-- Realización de comidas/cenas de convivencia: con vileros, noruegos, gitanos, ingleses, etc).
+1.  Definir y hacer una o varias “casa típica” (municipal).
+2.  Plan de actividades artísticas y culturales.
+3.  Partida presupuestaria municipal anual para remozar casas y fachadas.
+4.  Fomento y ayuda a la instalación de actividades artesanas.
+5.  Ubicación y mantenimiento de centros institucionales en el lugar.
+6.  Realización de comidas/cenas de convivencia: con vileros, noruegos, gitanos, ingleses, etc).
 
 ### Anular Amenazas
 
-- Ejecución de la actividad “camas calientes”.
-- Definición de una hoja de ruta para la inspección de viviendas.
-- Coordinación entre las agencias inmobiliarias y las hoteleras.
+1.  Ejecución de la actividad “camas calientes”.
+2.  Definición de una hoja de ruta para la inspección de viviendas.
+3.  Coordinación entre las agencias inmobiliarias y las hoteleras.
 
 ### Incrementar Fortalezas
 
-- Publicación de divulgación del casco antiguo. Recuperar la mediterraneidad.
-- Disponer de azafata-guia que haga divulgación “in situ”.
-- Realizar página web, con concierto público y privado, para divulgar la intencionalidad del PECA.
+1.  Publicación de divulgación del casco antiguo: Historia, temperatura, hábitos, etc. Recuperar la mediterraneidad.
+2.  Disponer de azafata-guia que haga divulgación “in situ”.
+3.  Realizar página web, con concierto público y privado, para divulgar la intencionalidad de las IECA.
 
 ### Aprovechar Oportunidades
 
-- Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
-- Actividades veraniegas con estudiantes extranjeros de estudio y excavación arqueológica.
-- Mantener relación directa y pemanente de actividades entre Solgarden Center y Casco Antiguo
+1.  Hacer el mejor “rastro” de antigüedades de la costa mediterránea.
+2.  Actividades veraniegas con estudiantes extranjeros de estudio y excavación arqueológica.
+3.  Mantener relación directa y permanente de actividades entre Comunidades e Instituciones asentadas aquí y Casco Antiguo.
+
 
 > ESPAI DE DEBAT “EQUINOCIO”
