@@ -94,7 +94,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Gracias por contactarnos. Vamos a contestar as rapido como posible.'
   og_locale: 'en_US'
 
 # Build settings
