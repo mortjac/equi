@@ -3,7 +3,7 @@ layout:     post
 title:      Plantilla estratégica
 date:       2016-05-22 10:00:00
 summary:    Pasos Para Definir Una Estrategia
-categories: Villajoyosa Vilamuseu
+categories: 
 ---
 
 
