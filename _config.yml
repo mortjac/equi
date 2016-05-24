@@ -94,15 +94,7 @@ text:
       sending:  'mandando..'
       sent:     'Mensaje mandado!'
       error:    'Error!'
-<<<<<<< Updated upstream
-  thanks: 'Gracias por contactarnos. Vamos a contestar as rapido como posible.'
-=======
-<<<<<<< HEAD
   thanks: 'Gracias por contactarnos. Vamos a constestar cuanto antes.'
-=======
-  thanks: 'Gracias por contactarnos. Vamos a contestar as rapido como posible.'
->>>>>>> origin/gh-pages
->>>>>>> Stashed changes
   og_locale: 'en_US'
 
 # Build settings
