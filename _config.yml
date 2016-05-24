@@ -81,20 +81,28 @@ text:
     hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
-    minute_read:    'minute read'
+    minute_read:    'minutas de leer'
     related_posts:  'Related Posts'
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    email:    'Email dirección'
+    content:  'Que quieres decir?'
+    subject:  'Nuevo submission!'
+    submit:   'Dinos hola'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
+      sending:  'mandando..'
+      sent:     'Mensaje mandado!'
       error:    'Error!'
+<<<<<<< Updated upstream
   thanks: 'Gracias por contactarnos. Vamos a contestar as rapido como posible.'
+=======
+<<<<<<< HEAD
+  thanks: 'Gracias por contactarnos. Vamos a constestar cuanto antes.'
+=======
+  thanks: 'Gracias por contactarnos. Vamos a contestar as rapido como posible.'
+>>>>>>> origin/gh-pages
+>>>>>>> Stashed changes
   og_locale: 'en_US'
 
 # Build settings
