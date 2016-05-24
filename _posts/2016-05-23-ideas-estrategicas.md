@@ -28,43 +28,44 @@ Así convertirlo en el mayor aliciente para el fomento y promoción turística d
 
 ## Desafios Críticos
 
-1.-Carencia de apoyo económico y financiero.
-2.-Construcción antigua: sin cimentación, basada en apoyos laterales y con problemas de subsuelo.
-3.- Falta histórica de visión estratégica de la sociedad vilera.  Implica falta de proyecto y su continuidad,
+1.  Carencia de apoyo económico y financiero.
+2. Construcción antigua: sin cimentación, basada en apoyos laterales y con problemas de subsuelo.
+3.  Falta histórica de visión estratégica de la sociedad vilera.  Implica falta de proyecto y su continuidad.
+
 ### Debilidades
 
-- Desconocimiento de la población..
- - Inexistencia de convivencia entre culturas distintas que habitan en él. Se es reacio a cambiar el modelo de convivencia social.
-- Ignorancia del valor que tiene como BIC.
-- Escasa actividad económica adecuada en su zona interior.
-- Casas sin los colores tradicionales.
-- Encarecimiento de los costes de construcción.
-- Tratamiento de su circulación rodada.
-- Accesibilidad deficiente.
-- Falta de jóvenes familias en su hábitat.
-- Escasa agilidad administrativa.
--
+1. Desconocimiento de la población..
+2. Inexistencia de convivencia entre culturas distintas que habitan en él.  Resistencia al cambio del modelo de convivencia social.
+3. Ignorancia del valor que tiene como BIC.
+4. Escasa actividad económica adecuada en su zona interior.
+5. Casas sin los colores tradicionales.
+6. Encarecimiento de los costes de construcción.
+Tratamiento de su circulación rodada. Accesibilidad deficiente.
+7. Falta de jóvenes familias en su hábitat.
+8. Escasa agilidad administrativa.
+
 ### Amenazas
 
-- Conseguir un escenario inanimado.
-- Posible desarrollo de burbuja especulativa inmobiliaria.
-- Posible caída de casas por falta de cimentación (construcciones internas de viviendas sin proyecto técnico ni dirección).
+1. Conseguir un escenario inanimado.
+2. Posible desarrollo de burbuja especulativa inmobiliaria.
+3. Posible caída de casas por falta de cimentación (construcciones internas de viviendas sin proyecto técnico ni dirección).
+
 ### Fortalezas
 
-- Compartir estética e historia con otros referentes del Mediterráneo.
-- Tener categoría de BIC.
-- Los distintos colores de las casas.
-- Sus más de 3000 años de historia.
-- Características urbanísticas únicas en la costa mediterránea: singularidad e imagen poco alterada.
-- Gran atractivo para el turista nacional y extranjero.
-- Casco antiguo bien definido.
-- Proximidad al mar, céntrico y clima excelente.
+1. Compartir estética e historia con otros referentes del Mediterráneo.
+2. Tener categoría de BIC.
+3. Los distintos colores de las casas.
+4. Sus más de 3000 años de historia.
+5. Características urbanísticas únicas en la costa mediterránea: singularidad e imagen poco alterada..
+6. Gran atractivo para el turista nacional y extranjero.
+7. Casco antiguo bien definido.
+8. Proximidad al mar, céntrico y clima excelente.
+
 ### Oportunidades
 
-- Desarrollo de actividades económicas y culturales.
-- Ayuda  esencial al desarrollo turístico local: conseguir nuevos turistas con motivaciones diferentes.
-- Realización de conurbaciones (especie de mancomunidades) entre poblaciones colindantes.
-- Especial aportación del casco antiguo.
+1. Desarrollo de actividades económicas y culturales.
+2. Ayuda  esencial al desarrollo turístico local: conseguir nuevos turistas con motivaciones diferentes.
+3. Realización de conurbaciones (especie de convenios) entre poblaciones colindantes. Especial aportación del casco antiguo.
 
 ## Planes De Acción
 
