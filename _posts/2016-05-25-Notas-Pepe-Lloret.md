@@ -8,4 +8,4 @@ categories: Villajoyosa Vilamuseu
 
 
 
-![Notas de Pepe Lloret](/images/Notas-Pepe-Lloret.jpg)
+![Notas de Pepe Lloret](/equinocci/images/Notas-Pepe-Lloret.jpg)
